@@ -6,4 +6,5 @@ The .au3 file is the code for your convenience, play around with it if you pleas
 
 
 Windows Defender may think that the file is a threat, if you don't trust a random .exe off the internet please compile the code.
+
 Compiler 'n stuff: https://www.autoitscript.com/
